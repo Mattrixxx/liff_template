@@ -1,0 +1,23 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\final-demo\\\\liff_template\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_d0e3c050"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "D:\\\\final-demo\\\\liff_template\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_77933fb8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\final-demo\\\\liff_template\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0a2c099c"
+  }
+]
